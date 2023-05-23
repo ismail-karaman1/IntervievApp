@@ -64,7 +64,7 @@ Build a Interview Accord App using ReactJS.
 - You can add additional functionalitiesto your app.
 
 ## Demo
-  <a href="interviev-qukdp1wy0-ismail-karaman1.vercel.app" target="_blank">React Interview Accord</a>
+  <a href="https://vercel.com/ismail-karaman1/interviev-app" target="_blank">React Interview Accord</a>
 
 
 # IntervievApp
